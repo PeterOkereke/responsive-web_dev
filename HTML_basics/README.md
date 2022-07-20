@@ -3,3 +3,9 @@
 **1-links** - This program introduces external & internal links in HTML, using the `<a>` (anchor element) and the `id` attribute. Also introduces nesting of links inside paragraphs.
 
 **2-images** - This program adds an image to a webpage in HTML.
+
+**3-dead_links** - This program creates a dead HTML link, using the `href` attribute with the `#` symbol.
+
+**4-images_to_link** - This program creates a link inside an image in HTML.
+
+
