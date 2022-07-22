@@ -8,4 +8,8 @@
 
 **4-images_to_link** - This program creates a link inside an image in HTML.
 
+**5-lists** - This program creates unordered lists `<ul>` and ordered lists `<ol>` in HTML.
+
+**6-web_form** - This program adds a web form in HTML using the `<form>` element, `<input>` and `<button>` elements.
+
 
