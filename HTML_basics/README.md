@@ -12,4 +12,6 @@
 
 **6-web_form** - This program adds a web form in HTML using the `<form>` element, `<input>` and `<button>` elements.
 
+**7-radio_buttons** - This program adds radio buttons to a web form.
 
+**8-checkboxes** - This program adds checkboxes to a web form.
