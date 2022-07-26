@@ -26,4 +26,7 @@
 **This program adds checkboxes to a web form.**
 
 ## 9-check-buttons_boxes_default
-**This program automatically checks radio buttons and checkboxes on a web form by default, using the ```checked``` HTML attribute.
+**This program automatically checks radio buttons and checkboxes on a web form by default, using the ```checked``` HTML attribute.**
+
+## 10-division
+**This program introduces the ```<div>``` element, also known as the division tag.**
