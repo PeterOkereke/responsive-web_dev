@@ -30,3 +30,9 @@
 
 ## 10-division
 **This program introduces the ```<div>``` element, also known as the division tag.**
+
+## 11-tables
+**This program introduces the ```<table>``` element, used to create tables in a webpage using HTML; and the ```<thead>``` , ```<tbody>```, ```<tr>, <th>, <td>``` tags used to organize content in a table.**
+
+## 12-lines_and_select_options
+**This program adds an options box where a user can select their gender. Introduces the ```<select>``` element and the ```<option>``` element.**
