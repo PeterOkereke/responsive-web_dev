@@ -36,3 +36,6 @@
 
 ## 12-lines_and_select_options
 **This program adds an options box where a user can select their gender. Introduces the ```<select>``` element and the ```<option>``` element.**
+
+## 13-textarea
+**This program adds a text area for a user to type in a message on a website, using the ```<textarea>``` element.**
