@@ -10,3 +10,4 @@ This directory contains codes while learning basic CSS at FreeCodeCamp.
 **This program creates a class in CSS to apply reusable styling to HTML elements.**
 
 ## 3-fonts
+**This CSS program sets the properties of the font of all paragraphs in a webpage.**
